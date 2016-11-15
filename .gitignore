@@ -71,6 +71,8 @@ docs/_build/
 target/
 
 # Jupyter Notebook
+share/
+data/
 .ipynb_checkpoints
 
 # pyenv
